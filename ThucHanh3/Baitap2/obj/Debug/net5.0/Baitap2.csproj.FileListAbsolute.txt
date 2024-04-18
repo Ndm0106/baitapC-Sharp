@@ -1,0 +1,15 @@
+E:\VisualStudioC#\ThucHanh3\Baitap2\bin\Debug\net5.0\Baitap2.exe
+E:\VisualStudioC#\ThucHanh3\Baitap2\bin\Debug\net5.0\Baitap2.deps.json
+E:\VisualStudioC#\ThucHanh3\Baitap2\bin\Debug\net5.0\Baitap2.runtimeconfig.json
+E:\VisualStudioC#\ThucHanh3\Baitap2\bin\Debug\net5.0\Baitap2.runtimeconfig.dev.json
+E:\VisualStudioC#\ThucHanh3\Baitap2\bin\Debug\net5.0\Baitap2.dll
+E:\VisualStudioC#\ThucHanh3\Baitap2\bin\Debug\net5.0\ref\Baitap2.dll
+E:\VisualStudioC#\ThucHanh3\Baitap2\bin\Debug\net5.0\Baitap2.pdb
+E:\VisualStudioC#\ThucHanh3\Baitap2\obj\Debug\net5.0\Baitap2.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioC#\ThucHanh3\Baitap2\obj\Debug\net5.0\Baitap2.AssemblyInfoInputs.cache
+E:\VisualStudioC#\ThucHanh3\Baitap2\obj\Debug\net5.0\Baitap2.AssemblyInfo.cs
+E:\VisualStudioC#\ThucHanh3\Baitap2\obj\Debug\net5.0\Baitap2.csproj.CoreCompileInputs.cache
+E:\VisualStudioC#\ThucHanh3\Baitap2\obj\Debug\net5.0\Baitap2.dll
+E:\VisualStudioC#\ThucHanh3\Baitap2\obj\Debug\net5.0\ref\Baitap2.dll
+E:\VisualStudioC#\ThucHanh3\Baitap2\obj\Debug\net5.0\Baitap2.pdb
+E:\VisualStudioC#\ThucHanh3\Baitap2\obj\Debug\net5.0\Baitap2.genruntimeconfig.cache
