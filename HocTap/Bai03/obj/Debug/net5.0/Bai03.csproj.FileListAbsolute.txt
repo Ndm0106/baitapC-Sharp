@@ -1,0 +1,16 @@
+E:\VisualStudioC#\HocTap\Bai03\bin\Debug\net5.0\Bai03.exe
+E:\VisualStudioC#\HocTap\Bai03\bin\Debug\net5.0\Bai03.deps.json
+E:\VisualStudioC#\HocTap\Bai03\bin\Debug\net5.0\Bai03.runtimeconfig.json
+E:\VisualStudioC#\HocTap\Bai03\bin\Debug\net5.0\Bai03.runtimeconfig.dev.json
+E:\VisualStudioC#\HocTap\Bai03\bin\Debug\net5.0\Bai03.dll
+E:\VisualStudioC#\HocTap\Bai03\bin\Debug\net5.0\ref\Bai03.dll
+E:\VisualStudioC#\HocTap\Bai03\bin\Debug\net5.0\Bai03.pdb
+E:\VisualStudioC#\HocTap\Bai03\obj\Debug\net5.0\Bai03.csproj.AssemblyReference.cache
+E:\VisualStudioC#\HocTap\Bai03\obj\Debug\net5.0\Bai03.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioC#\HocTap\Bai03\obj\Debug\net5.0\Bai03.AssemblyInfoInputs.cache
+E:\VisualStudioC#\HocTap\Bai03\obj\Debug\net5.0\Bai03.AssemblyInfo.cs
+E:\VisualStudioC#\HocTap\Bai03\obj\Debug\net5.0\Bai03.csproj.CoreCompileInputs.cache
+E:\VisualStudioC#\HocTap\Bai03\obj\Debug\net5.0\Bai03.dll
+E:\VisualStudioC#\HocTap\Bai03\obj\Debug\net5.0\ref\Bai03.dll
+E:\VisualStudioC#\HocTap\Bai03\obj\Debug\net5.0\Bai03.pdb
+E:\VisualStudioC#\HocTap\Bai03\obj\Debug\net5.0\Bai03.genruntimeconfig.cache
