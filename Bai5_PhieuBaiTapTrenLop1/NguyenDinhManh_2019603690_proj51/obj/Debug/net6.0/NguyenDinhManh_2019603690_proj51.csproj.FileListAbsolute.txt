@@ -1,0 +1,15 @@
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\bin\Debug\net6.0\NguyenDinhManh_2019603690_proj51.exe
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\bin\Debug\net6.0\NguyenDinhManh_2019603690_proj51.deps.json
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\bin\Debug\net6.0\NguyenDinhManh_2019603690_proj51.runtimeconfig.json
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\bin\Debug\net6.0\NguyenDinhManh_2019603690_proj51.dll
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\bin\Debug\net6.0\NguyenDinhManh_2019603690_proj51.pdb
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\obj\Debug\net6.0\NguyenDinhManh_2019603690_proj51.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\obj\Debug\net6.0\NguyenDinhManh_2019603690_proj51.AssemblyInfoInputs.cache
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\obj\Debug\net6.0\NguyenDinhManh_2019603690_proj51.AssemblyInfo.cs
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\obj\Debug\net6.0\NguyenDinhManh_2019603690_proj51.csproj.CoreCompileInputs.cache
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\obj\Debug\net6.0\NguyenDinhManh_2019603690_proj51.sourcelink.json
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\obj\Debug\net6.0\NguyenDinhManh_2019603690_proj51.dll
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\obj\Debug\net6.0\refint\NguyenDinhManh_2019603690_proj51.dll
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\obj\Debug\net6.0\NguyenDinhManh_2019603690_proj51.pdb
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\obj\Debug\net6.0\NguyenDinhManh_2019603690_proj51.genruntimeconfig.cache
+E:\VisualStudioC#\Bai5_PhieuBaiTapTrenLop1\NguyenDinhManh_2019603690_proj51\obj\Debug\net6.0\ref\NguyenDinhManh_2019603690_proj51.dll

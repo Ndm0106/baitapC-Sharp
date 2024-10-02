@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VisualStudioC#\\Bai4_PhieuBaiTap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A99A8B-184F-4EDD-9E96-C6D375AD2B0E}|Bai3\\Bai3.csproj|e:\\visualstudioc#\\bai4_phieubaitap1\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A99A8B-184F-4EDD-9E96-C6D375AD2B0E}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A99A8B-184F-4EDD-9E96-C6D375AD2B0E}|Bai3\\Bai3.csproj|e:\\visualstudioc#\\bai4_phieubaitap1\\bai3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A99A8B-184F-4EDD-9E96-C6D375AD2B0E}|Bai3\\Bai3.csproj|solutionrelative:bai3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\VisualStudioC#\\Bai4_PhieuBaiTap1\\Bai3\\Student.cs",
+              "RelativeDocumentMoniker": "Bai3\\Student.cs",
+              "ToolTip": "E:\\VisualStudioC#\\Bai4_PhieuBaiTap1\\Bai3\\Student.cs",
+              "RelativeToolTip": "Bai3\\Student.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwF4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:38:50.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VisualStudioC#\\Bai4_PhieuBaiTap1\\Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3\\Program.cs",
+              "ToolTip": "E:\\VisualStudioC#\\Bai4_PhieuBaiTap1\\Bai3\\Program.cs",
+              "RelativeToolTip": "Bai3\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:38:40.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

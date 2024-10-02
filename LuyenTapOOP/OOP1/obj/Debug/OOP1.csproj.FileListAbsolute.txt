@@ -1,0 +1,7 @@
+E:\VisualStudioC#\LuyenTapOOP\OOP1\bin\Debug\OOP1.exe.config
+E:\VisualStudioC#\LuyenTapOOP\OOP1\bin\Debug\OOP1.exe
+E:\VisualStudioC#\LuyenTapOOP\OOP1\bin\Debug\OOP1.pdb
+E:\VisualStudioC#\LuyenTapOOP\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+E:\VisualStudioC#\LuyenTapOOP\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+E:\VisualStudioC#\LuyenTapOOP\OOP1\obj\Debug\OOP1.exe
+E:\VisualStudioC#\LuyenTapOOP\OOP1\obj\Debug\OOP1.pdb

@@ -1,0 +1,67 @@
+﻿<Window x:Class="Bai9._2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai9._2"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="450" Width="450">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="80"></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <TextBlock Margin="5 5 0 0" Text="Họ tên"/>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <TextBox HorizontalAlignment="Left" Margin="5 5 0 0" x:Name="txtHoTen" Width="306" Height="25"></TextBox>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="80"></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <TextBlock Margin="5 5 0 0" Text="Giới tính"/>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <ComboBox HorizontalAlignment="Left" Margin="5 5 0 0" x:Name="txtGioiTinh" Width="307" Height="25"></ComboBox>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="80"></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <TextBlock Margin="5 5 0 0" Text="Phòng ban"/>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <ComboBox HorizontalAlignment="Left" Margin="5 5 0 0" x:Name="txtPhongBan" Width="307" Height="25"></ComboBox>
+                </Grid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Button HorizontalAlignment="Right" Margin="0 5 70 5" x:Name="Them" Content="Thêm" Click="Them_Click" Width="50" Height="30"></Button>
+            <Button HorizontalAlignment="Right" Margin="0 5 10 5" x:Name="Thoat" Content="Thoát" Width="50" Click="Thoat_Click" Height="30"></Button>
+        </Grid>
+        <Grid Grid.Row="2">
+            <ListBox x:Name="QLNV" Margin="5"></ListBox>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\bin\Debug\net6.0\Bai4.exe
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\bin\Debug\net6.0\Bai4.deps.json
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\bin\Debug\net6.0\Bai4.runtimeconfig.json
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\bin\Debug\net6.0\Bai4.dll
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\bin\Debug\net6.0\Bai4.pdb
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\obj\Debug\net6.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\obj\Debug\net6.0\Bai4.AssemblyInfoInputs.cache
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\obj\Debug\net6.0\Bai4.AssemblyInfo.cs
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\obj\Debug\net6.0\Bai4.csproj.CoreCompileInputs.cache
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\obj\Debug\net6.0\Bai4.sourcelink.json
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\obj\Debug\net6.0\Bai4.dll
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\obj\Debug\net6.0\refint\Bai4.dll
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\obj\Debug\net6.0\Bai4.pdb
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\obj\Debug\net6.0\Bai4.genruntimeconfig.cache
+E:\VisualStudioC#\Bai3_BaiTapTrenLop\Bai4\obj\Debug\net6.0\ref\Bai4.dll

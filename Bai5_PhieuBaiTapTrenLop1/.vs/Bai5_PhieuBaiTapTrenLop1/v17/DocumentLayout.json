@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VisualStudioC#\\Bai5_PhieuBaiTapTrenLop1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1659CC-A6A4-47BC-B931-96479F5FB81C}|NguyenDinhManh_2019603690_proj51\\NguyenDinhManh_2019603690_proj51.csproj|e:\\visualstudioc#\\bai5_phieubaitaptrenlop1\\nguyendinhmanh_2019603690_proj51\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1659CC-A6A4-47BC-B931-96479F5FB81C}|NguyenDinhManh_2019603690_proj51\\NguyenDinhManh_2019603690_proj51.csproj|solutionrelative:nguyendinhmanh_2019603690_proj51\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1659CC-A6A4-47BC-B931-96479F5FB81C}|NguyenDinhManh_2019603690_proj51\\NguyenDinhManh_2019603690_proj51.csproj|e:\\visualstudioc#\\bai5_phieubaitaptrenlop1\\nguyendinhmanh_2019603690_proj51\\thisinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1659CC-A6A4-47BC-B931-96479F5FB81C}|NguyenDinhManh_2019603690_proj51\\NguyenDinhManh_2019603690_proj51.csproj|solutionrelative:nguyendinhmanh_2019603690_proj51\\thisinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VisualStudioC#\\Bai5_PhieuBaiTapTrenLop1\\NguyenDinhManh_2019603690_proj51\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenDinhManh_2019603690_proj51\\Program.cs",
+              "ToolTip": "E:\\VisualStudioC#\\Bai5_PhieuBaiTapTrenLop1\\NguyenDinhManh_2019603690_proj51\\Program.cs",
+              "RelativeToolTip": "NguyenDinhManh_2019603690_proj51\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:01:40.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThiSinhA.cs",
+              "DocumentMoniker": "E:\\VisualStudioC#\\Bai5_PhieuBaiTapTrenLop1\\NguyenDinhManh_2019603690_proj51\\ThiSinhA.cs",
+              "RelativeDocumentMoniker": "NguyenDinhManh_2019603690_proj51\\ThiSinhA.cs",
+              "ToolTip": "E:\\VisualStudioC#\\Bai5_PhieuBaiTapTrenLop1\\NguyenDinhManh_2019603690_proj51\\ThiSinhA.cs",
+              "RelativeToolTip": "NguyenDinhManh_2019603690_proj51\\ThiSinhA.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAYwFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:47:43.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

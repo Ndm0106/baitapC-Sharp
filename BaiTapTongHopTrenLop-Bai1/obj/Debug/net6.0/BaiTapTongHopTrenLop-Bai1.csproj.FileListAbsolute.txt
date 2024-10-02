@@ -1,0 +1,15 @@
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\bin\Debug\net6.0\BaiTapTongHopTrenLop-Bai1.exe
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\bin\Debug\net6.0\BaiTapTongHopTrenLop-Bai1.deps.json
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\bin\Debug\net6.0\BaiTapTongHopTrenLop-Bai1.runtimeconfig.json
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\bin\Debug\net6.0\BaiTapTongHopTrenLop-Bai1.dll
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\bin\Debug\net6.0\BaiTapTongHopTrenLop-Bai1.pdb
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\obj\Debug\net6.0\BaiTapTongHopTrenLop-Bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\obj\Debug\net6.0\BaiTapTongHopTrenLop-Bai1.AssemblyInfoInputs.cache
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\obj\Debug\net6.0\BaiTapTongHopTrenLop-Bai1.AssemblyInfo.cs
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\obj\Debug\net6.0\BaiTapTongHopTrenLop-Bai1.csproj.CoreCompileInputs.cache
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\obj\Debug\net6.0\BaiTapTongHopTrenLop-Bai1.sourcelink.json
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\obj\Debug\net6.0\BaiTapTongHopTrenLop-Bai1.dll
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\obj\Debug\net6.0\refint\BaiTapTongHopTrenLop-Bai1.dll
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\obj\Debug\net6.0\BaiTapTongHopTrenLop-Bai1.pdb
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\obj\Debug\net6.0\BaiTapTongHopTrenLop-Bai1.genruntimeconfig.cache
+E:\VisualStudioC#\BaiTapTongHopTrenLop-Bai1\obj\Debug\net6.0\ref\BaiTapTongHopTrenLop-Bai1.dll
