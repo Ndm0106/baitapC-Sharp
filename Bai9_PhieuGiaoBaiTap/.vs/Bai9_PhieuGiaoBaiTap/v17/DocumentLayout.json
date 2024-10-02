@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\VisualStudioC#\\Bai9_PhieuGiaoBaiTap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0F48F7B-44AD-48A1-91B7-C8A1A698EC97}|Bai9.5\\Bai9.5.csproj|e:\\visualstudioc#\\bai9_phieugiaobaitap\\bai9.5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D0F48F7B-44AD-48A1-91B7-C8A1A698EC97}|Bai9.5\\Bai9.5.csproj|solutionrelative:bai9.5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0F48F7B-44AD-48A1-91B7-C8A1A698EC97}|Bai9.5\\Bai9.5.csproj|e:\\visualstudioc#\\bai9_phieugiaobaitap\\bai9.5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0F48F7B-44AD-48A1-91B7-C8A1A698EC97}|Bai9.5\\Bai9.5.csproj|solutionrelative:bai9.5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F48F7B-44AD-48A1-91B7-C8A1A698EC97}|Bai9.5\\Bai9.5.csproj|e:\\visualstudioc#\\bai9_phieugiaobaitap\\bai9.5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D0F48F7B-44AD-48A1-91B7-C8A1A698EC97}|Bai9.5\\Bai9.5.csproj|solutionrelative:bai9.5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\VisualStudioC#\\Bai9_PhieuGiaoBaiTap\\Bai9.5\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Bai9.5\\MainWindow.xaml",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "E:\\VisualStudioC#\\Bai9_PhieuGiaoBaiTap\\Bai9.5\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Bai9.5\\MainWindow.xaml.cs",
               "ToolTip": "E:\\VisualStudioC#\\Bai9_PhieuGiaoBaiTap\\Bai9.5\\MainWindow.xaml.cs",
               "RelativeToolTip": "Bai9.5\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwDUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T20:40:20.845Z",
               "EditorCaption": ""
