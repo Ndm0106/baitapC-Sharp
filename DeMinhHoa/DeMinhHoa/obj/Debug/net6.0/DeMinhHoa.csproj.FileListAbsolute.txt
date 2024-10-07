@@ -1,0 +1,15 @@
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\bin\Debug\net6.0\DeMinhHoa.exe
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\bin\Debug\net6.0\DeMinhHoa.deps.json
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\bin\Debug\net6.0\DeMinhHoa.runtimeconfig.json
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\bin\Debug\net6.0\DeMinhHoa.dll
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\bin\Debug\net6.0\DeMinhHoa.pdb
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\obj\Debug\net6.0\DeMinhHoa.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\obj\Debug\net6.0\DeMinhHoa.AssemblyInfoInputs.cache
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\obj\Debug\net6.0\DeMinhHoa.AssemblyInfo.cs
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\obj\Debug\net6.0\DeMinhHoa.csproj.CoreCompileInputs.cache
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\obj\Debug\net6.0\DeMinhHoa.sourcelink.json
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\obj\Debug\net6.0\DeMinhHoa.dll
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\obj\Debug\net6.0\refint\DeMinhHoa.dll
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\obj\Debug\net6.0\DeMinhHoa.pdb
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\obj\Debug\net6.0\DeMinhHoa.genruntimeconfig.cache
+E:\VisualStudioC#\DeMinhHoa\DeMinhHoa\obj\Debug\net6.0\ref\DeMinhHoa.dll
