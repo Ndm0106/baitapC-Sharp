@@ -29,10 +29,10 @@ namespace DeMinhHoa
         public override void NhapThongTin()
         {
             Console.WriteLine("Nhap thong tin");
-            Console.Write("Nhap ma nhan vien:");
+            Console.Write("Nhap ma nhan vien: ");
             MaNhanVien = Console.ReadLine();
             base.NhapThongTin();
-            Console.Write("Nhap chuc vu:");
+            Console.Write("Nhap chuc vu: ");
             ChucVu = Console.ReadLine();
             bool isValid = false;
             while (!isValid)
@@ -52,6 +52,25 @@ namespace DeMinhHoa
                     Console.WriteLine(ex.Message);
                 }
             }
+        }
+        public int HSCV()
+        {
+            if (ChucVu.ToLower() == "giam doc")
+                return 10;
+            else if (ChucVu.ToLower() == "truong phong" || ChucVu.ToLower() == "pho giam doc")
+                return 6;
+            else if (ChucVu.ToLower() == "pho phong")
+                return 4;
+            else
+                return 2;
+        }
+        public override bool Equals(object? obj)
+        {
+            if (obj is NhanVien nv)
+            {
+                return this.MaNhanVien == nv.MaNhanVien;
+            }
+            return false;
         }
         public override void HienThiThongTin()
         {

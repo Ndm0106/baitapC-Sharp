@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        
         static void Main(string[] args)
         {
 
@@ -35,23 +36,52 @@
             } while (choice != 7);
         }
         static List<NhanVien> danhSachNhanVien = new List<NhanVien>();
+        //static void ThemNhanVien()
+        //{
+        //    NhanVien nv = new NhanVien();
+        //    nv.NhapThongTin();
+
+        //    // Kiểm tra trùng mã nhân viên
+        //    foreach (NhanVien nhanVien in danhSachNhanVien)
+        //    {
+        //        if (nv.Equals(nhanVien))
+        //        {
+        //            Console.WriteLine("Mã nhân viên đã tồn tại. Không thể thêm nhân viên.");
+        //            return;
+        //        }
+        //    }
+
+        //    danhSachNhanVien.Add(nv);
+        //    Console.WriteLine("Đã thêm nhân viên.");
+        //}
         static void ThemNhanVien()
         {
             NhanVien nv = new NhanVien();
-            nv.NhapThongTin();
 
-            // Kiểm tra trùng mã nhân viên
-            foreach (NhanVien nhanVien in danhSachNhanVien)
+            while (true)
             {
-                if (nv.Equals(nhanVien))
+                nv.NhapThongTin();
+
+                // Kiểm tra trùng mã nhân viên
+                bool isDuplicate = false;
+                foreach (NhanVien nhanVien in danhSachNhanVien)
                 {
-                    Console.WriteLine("Mã nhân viên đã tồn tại. Không thể thêm nhân viên.");
-                    return;
+                    if (nhanVien.Equals(nv))
+                    {
+                        isDuplicate = true;
+                        Console.WriteLine("Mã nhân viên đã tồn tại. Vui lòng nhập lại mã khác.");
+                        break;
+                    }
+                }
+
+                // Nếu không trùng mã thì thoát khỏi vòng lặp
+                if (!isDuplicate)
+                {
+                    danhSachNhanVien.Add(nv);
+                    Console.WriteLine("Đã thêm nhân viên.");
+                    break;
                 }
             }
-
-            danhSachNhanVien.Add(nv);
-            Console.WriteLine("Đã thêm nhân viên.");
         }
         static void HienThiDanhSach()
         {
