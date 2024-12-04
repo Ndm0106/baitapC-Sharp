@@ -106,6 +106,8 @@ namespace NguyenDinhManh_690
                     throw new Exception("số lượng phải là một số");
                 if (soLuongCon <= 0)
                     throw new Exception("số lượng phải là một số thực lớn hơn 0");
+                if (db.Hangs.Any(x=>x.MaHang == txtMaHang.Text))
+                    throw new Exception("Mã hàng đã tồn tại");
                 Hang hang = new Hang
                 {
                     MaHang = maHang,

@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{790BCA30-9BA2-4FC8-A392-1395F7CE569A}|NguyenDinhManh_690.csproj|e:\\visualstudioc#\\nguyendinhmanh_690\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{790BCA30-9BA2-4FC8-A392-1395F7CE569A}|NguyenDinhManh_690.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790BCA30-9BA2-4FC8-A392-1395F7CE569A}|NguyenDinhManh_690.csproj|e:\\visualstudioc#\\nguyendinhmanh_690\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{790BCA30-9BA2-4FC8-A392-1395F7CE569A}|NguyenDinhManh_690.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 136,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\VisualStudioC#\\NguyenDinhManh_690\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\VisualStudioC#\\NguyenDinhManh_690\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T15:29:28.278Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "E:\\VisualStudioC#\\NguyenDinhManh_690\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAzwK0AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAswG0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T14:56:59.39Z",
               "EditorCaption": ""
