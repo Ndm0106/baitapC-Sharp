@@ -1,0 +1,19 @@
+﻿<Window x:Class="DeMauGuiSV.Tim"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DeMauGuiSV"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Tim" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dataTim" AutoGenerateColumns="False" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Category ID" Binding="{Binding CatId}"/>
+                <DataGridTextColumn Header="Category Name" Binding="{Binding CatName}"/>
+                <DataGridTextColumn Header="Amount" Binding="{Binding Amount}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

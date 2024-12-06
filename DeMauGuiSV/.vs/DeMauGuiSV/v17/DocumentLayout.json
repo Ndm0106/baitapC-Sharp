@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VisualStudioC#\\DeMauGuiSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83EF4F60-29FE-4ACA-907A-F9060A74643A}|DeMauGuiSV.csproj|e:\\visualstudioc#\\demauguisv\\tim.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83EF4F60-29FE-4ACA-907A-F9060A74643A}|DeMauGuiSV.csproj|solutionrelative:tim.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EF4F60-29FE-4ACA-907A-F9060A74643A}|DeMauGuiSV.csproj|e:\\visualstudioc#\\demauguisv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83EF4F60-29FE-4ACA-907A-F9060A74643A}|DeMauGuiSV.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83EF4F60-29FE-4ACA-907A-F9060A74643A}|DeMauGuiSV.csproj|e:\\visualstudioc#\\demauguisv\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83EF4F60-29FE-4ACA-907A-F9060A74643A}|DeMauGuiSV.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 136,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tim.xaml",
+              "DocumentMoniker": "E:\\VisualStudioC#\\DeMauGuiSV\\Tim.xaml",
+              "RelativeDocumentMoniker": "Tim.xaml",
+              "ToolTip": "E:\\VisualStudioC#\\DeMauGuiSV\\Tim.xaml",
+              "RelativeToolTip": "Tim.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T15:49:57.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\VisualStudioC#\\DeMauGuiSV\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\VisualStudioC#\\DeMauGuiSV\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T13:57:05.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\VisualStudioC#\\DeMauGuiSV\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\VisualStudioC#\\DeMauGuiSV\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAQwK8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:57:04.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
