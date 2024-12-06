@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VisualStudioC#\\NguyenDinhManh_690_16696\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA89FA0-D75B-48EC-9C6D-72B81FAADED3}|NguyenDinhManh_690_16696.csproj|e:\\visualstudioc#\\nguyendinhmanh_690_16696\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CBA89FA0-D75B-48EC-9C6D-72B81FAADED3}|NguyenDinhManh_690_16696.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA89FA0-D75B-48EC-9C6D-72B81FAADED3}|NguyenDinhManh_690_16696.csproj|e:\\visualstudioc#\\nguyendinhmanh_690_16696\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA89FA0-D75B-48EC-9C6D-72B81FAADED3}|NguyenDinhManh_690_16696.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA89FA0-D75B-48EC-9C6D-72B81FAADED3}|NguyenDinhManh_690_16696.csproj|e:\\visualstudioc#\\nguyendinhmanh_690_16696\\timkiem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CBA89FA0-D75B-48EC-9C6D-72B81FAADED3}|NguyenDinhManh_690_16696.csproj|solutionrelative:timkiem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 136,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimKiem.xaml",
+              "DocumentMoniker": "E:\\VisualStudioC#\\NguyenDinhManh_690_16696\\TimKiem.xaml",
+              "RelativeDocumentMoniker": "TimKiem.xaml",
+              "ToolTip": "E:\\VisualStudioC#\\NguyenDinhManh_690_16696\\TimKiem.xaml",
+              "RelativeToolTip": "TimKiem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T03:22:39.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\VisualStudioC#\\NguyenDinhManh_690_16696\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\VisualStudioC#\\NguyenDinhManh_690_16696\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T15:18:53.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\VisualStudioC#\\NguyenDinhManh_690_16696\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\VisualStudioC#\\NguyenDinhManh_690_16696\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAwwK8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:26:27.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
